@@ -1,0 +1,10 @@
+tkinter
+pyttsx3
+speechrecognition
+PyQt5
+tkcalendar
+Pillow
+opencv-python
+pyaudio
+moviepy
+keyboard
